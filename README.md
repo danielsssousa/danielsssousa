@@ -1,8 +1,6 @@
-# Olá, eu sou [Seu Nome] 👋
 
-Analista e Desenvolvedor de Sistemas apaixonado por automação, segurança de dados e infraestrutura. 
+Analista e Desenvolvedor de Sistemas estudante de segurança de dados e infraestrutura. 
 
-## 🚀 Sobre Mim
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**.
 - 💻 Atuando com foco em **Python, SQL e Automação de Processos**.
 - 🛡️ Entusiasta de **Cibersegurança e Auditoria de Redes**.
