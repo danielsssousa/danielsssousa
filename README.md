@@ -14,8 +14,5 @@ Analista e Desenvolvedor de Sistemas estudante de segurança de dados e infraest
 
 ## 📊 O que estou fazendo agora?
 - 🔭 Desenvolvendo ferramentas em Python para automação e extração de metadados.
-- 🎮 Criando um projeto de jogo 2D na engine Godot para praticar lógica e estrutura.
 - 📖 Aprofundando estudos em Forense Digital e Segurança Ofensiva.
 
-## 📫 Como me encontrar
-[Inserir link do LinkedIn ou E-mail aqui]
