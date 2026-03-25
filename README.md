@@ -2,14 +2,14 @@
 Analista e Desenvolvedor de Sistemas estudante de segurança de dados e infraestrutura. 
 
 - 🎓 Formando em **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 💻 Atuando com foco em **Python, SQL e Automação de Processos**.
+- 💻 Atuando com foco em **Python, e Automação de Processos**.
 - 🛡️ Entusiasta de **Cibersegurança e Auditoria de Redes**.
 - 🛠️ Experiência prática em ambientes críticos de TI.
 
 ## 🛠️ Stack Tecnológica
-- **Linguagens:** Python, SQL, GDScript (Godot).
+- **Linguagens:** Python.
 - **Segurança:** Nmap, Auditoria de Redes, Forense Digital.
-- **Ferramentas:** Git/GitHub, Docker, Linux (CLI).
+- **Ferramentas:** Git/GitHub, Linux (CLI).
 - **Bancos de Dados:** PostgreSQL, SQLite, MySQL.
 
 ## 📊 O que estou fazendo agora?
