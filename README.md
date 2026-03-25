@@ -1,7 +1,7 @@
 
 Analista e Desenvolvedor de Sistemas estudante de segurança de dados e infraestrutura. 
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**.
+- 🎓 Formando em **Análise e Desenvolvimento de Sistemas (ADS)**.
 - 💻 Atuando com foco em **Python, SQL e Automação de Processos**.
 - 🛡️ Entusiasta de **Cibersegurança e Auditoria de Redes**.
 - 🛠️ Experiência prática em ambientes críticos de TI.
