@@ -10,7 +10,7 @@ Analista e Desenvolvedor de Sistemas estudante de segurança de dados e infraest
 - **Linguagens:** Python.
 - **Segurança:** Nmap, Auditoria de Redes, Forense Digital.
 - **Ferramentas:** Git/GitHub, Linux (CLI).
-- **Bancos de Dados:** PostgreSQL, SQLite, MySQL.
+- **Bancos de Dados:** MySQL.
 
 ## 📊 O que estou fazendo agora?
 - 🔭 Desenvolvendo ferramentas em Python para automação e extração de metadados.
