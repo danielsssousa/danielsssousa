@@ -17,7 +17,8 @@ Analista e Desenvolvedor de Sistemas estudante de segurança de dados e infraest
 - 📖 Aprofundando estudos em Forense Digital e Segurança Ofensiva.
 
 ## 🎓 Certificações
-[![Cisco Badge]([https://caminho-da-imagem-do-seu-badge.png](https://www.credly.com/badges/e58f23fe-3cbd-4847-a1ee-185ae4a4ba68/public_url
-))](https://link-da-sua-credencial-no-credly)
+<a href="https://www.credly.com/badges/e58f23fe-3cbd-4847-a1ee-185ae4a4ba68/public_url">
+  <img src="COLE_O_LINK_DA_IMAGEM_DO_BADGE_AQUI" width="150" height="150" alt="Cisco Badge">
+</a>
 
-
+[![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity-blue?style=for-the-badge&logo=cisco&logoColor=white)](COLE_O_LINK_DO_SEU_CREDLY_AQUI)
