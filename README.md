@@ -16,3 +16,6 @@ Analista e Desenvolvedor de Sistemas estudante de segurança de dados e infraest
 - 🔭 Desenvolvendo ferramentas em Python para automação e extração de metadados.
 - 📖 Aprofundando estudos em Forense Digital e Segurança Ofensiva.
 
+## 🎓 Certificações
+[![Cisco Badge](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e58f23fe-3cbd-4847-a1ee-185ae4a4ba68" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+
