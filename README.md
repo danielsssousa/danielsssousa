@@ -8,7 +8,7 @@ Analista e Desenvolvedor de Sistemas estudante de segurança de dados e infraest
 
 ## 🛠️ Stack Tecnológica
 - **Linguagens:** Python.
-- **Segurança:** Nmap, Auditoria de Redes, Forense Digital.
+- **Segurança:** Nmap, Auditoria de Redes.
 - **Ferramentas:** Git/GitHub, Linux (CLI).
 - **Bancos de Dados:** MySQL.
 
