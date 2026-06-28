@@ -21,8 +21,8 @@ Analista e Desenvolvedor de Sistemas estudante de segurança de dados e infraest
   <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" height="120" alt="Cisco Badge">
 </a>
 
-<a https://www.credly.com/badges/b3e8fa2d-ab0a-40c6-89f2-497e5b05d4b3/public_url>
-  <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" height="120" alt="Cisco Badge">
+<a href="https://www.credly.com/badges/b3e8fa2d-ab0a-40c6-89f2-497e5b05d4b3/public_url">
+  <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="120" height="120" alt="Cisco Badge">
 </a>
 
 
